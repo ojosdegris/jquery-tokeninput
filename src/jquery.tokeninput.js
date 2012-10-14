@@ -19,6 +19,7 @@ var DEFAULT_SETTINGS = {
     propertyToSearch: "name",
     jsonContainer: null,
     contentType: "json",
+    enableCache: true,
 
     // Prepopulation settings
     prePopulate: null,
@@ -54,6 +55,7 @@ var DEFAULT_SETTINGS = {
 
     // Behavioral settings
     allowFreeTagging: false,
+    disableCallbacks: false,
 
     // Callbacks
     onResult: null,
