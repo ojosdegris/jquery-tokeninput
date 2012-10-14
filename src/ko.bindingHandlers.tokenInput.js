@@ -57,7 +57,7 @@
                 }
             })
 
-            vm.currentData.subscribeArrayChanged(addHandler, removeHandler);
+            values.subscribeArrayChanged(addHandler, removeHandler);
         },
     }
 
