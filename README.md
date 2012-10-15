@@ -9,4 +9,4 @@ Documentation, Features and Demos
 ---------------------------------
 Full details and documentation can be found on the project page here:
 
-<http://loopj.com/jquery-tokeninput/>
+<http://jsfiddle.net/vittore/8jjWW/3//>
